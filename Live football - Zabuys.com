@@ -2,7 +2,7 @@
    "splash_inter":"1",
    "app_redirectOtherAppStatus":"0",
    "app_newPackageName":"",
-   "app_AppOpenAdStatus":"1",
+   "app_AppOpenAdStatus":"0",
    "qureka":"https://u.djdvk.com/ucode",
    "onewebify":"https://u.djdvk.com/zcode",
    "qureka_ads":"0",
